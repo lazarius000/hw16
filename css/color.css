@@ -1,0 +1,187 @@
+.bg-colormain{
+    background-image: linear-gradient(to right top, #3bff3b, #aadb00, #dcb200, #f88500, #ff552f, #ff406b, #ff47a4, #e563d7, #aa94ff, #57b8ff, #00d3ff, #41e7ff);
+}
+.text-red {
+    color: #F44336;
+}
+
+.text-pink {
+    color: #E91E63;
+}
+
+.text-purple {
+    color: #9C27B0;
+}
+
+.text-indigo {
+    color: #3F51B5;
+}
+
+.text-blue {
+    color: #2196F3;
+}
+
+.text-cyan {
+    color: #00BCD4;
+}
+
+.text-teal {
+    color: #009688;
+}
+
+.text-green {
+    color: #4CAF50;
+}
+
+.text-yellow {
+    color: #FFEB3B;
+}
+
+.text-orange {
+    color: #FF9800;
+}
+
+.text-brown {
+    color: #795548;
+}
+
+.text-gray-100 {
+    color: #F5F5F5;
+}
+
+.text-gray-200 {
+    color: #EEEEEE;
+}
+
+.text-gray-300 {
+    color: #E0E0E0;
+}
+
+.text-gray-400 {
+    color: #BDBDBD;
+}
+
+.text-gray-500 {
+    color: #9E9E9E;
+}
+
+.text-gray-600 {
+    color: #757575;
+}
+
+.text-gray-700 {
+    color: #616161;
+}
+
+.text-gray-800 {
+    color: #424242;
+}
+
+.text-gray-900 {
+    color: #212121;
+}
+
+.text-black {
+    color: #000000;
+}
+
+.text-white {
+    color: #FFFFFF;
+}
+
+.bg-red {
+    background-color: #F44336;
+}
+
+.bg-pink {
+    background-color: #E91E63;
+}
+
+.bg-purple {
+    background-color: #9C27B0;
+}
+
+.bg-indigo {
+    background-color: #3F51B5;
+}
+
+.bg-blue {
+    background-color: #2196F3;
+}
+
+.bg-cyan {
+    background-color: #00BCD4;
+}
+
+.bg-teal {
+    background-color: #009688;
+}
+
+.bg-green {
+    background-color: #4CAF50;
+}
+
+.bg-yellow {
+    background-color: #FFEB3B;
+}
+
+.bg-orange {
+    background-color: #FF9800;
+}
+
+.bg-brown {
+    background-color: #795548;
+}
+
+.bg-gray-100 {
+    background-color: #F5F5F5;
+}
+
+.bg-gray-200 {
+    background-color: #EEEEEE;
+}
+
+.bg-gray-300 {
+    background-color: #E0E0E0;
+}
+
+.bg-gray-400 {
+    background-color: #BDBDBD;
+}
+
+.bg-gray-500 {
+    background-color: #9E9E9E;
+}
+
+.bg-gray-600 {
+    background-color: #757575;
+}
+
+.bg-gray-700 {
+    background-color: #616161;
+}
+
+.bg-gray-800 {
+    background-color: #424242;
+}
+
+.bg-gray-900 {
+    background-color: #212121;
+}
+
+.bg-black {
+    background-color: #000000;
+}
+
+.bg-white {
+    background-color: #FFFFFF;
+}
+.text-orange-red{
+    color: rgb(255, 94, 36);
+}
+.bg-orange-red{
+    background-color: rgb(255, 94, 36);
+}
+.bg-pink-white{
+    background-color: pink;
+}
